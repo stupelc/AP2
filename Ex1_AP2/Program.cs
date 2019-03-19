@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+ * Chagit Stupel
+ * ID: 209089960
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -102,8 +107,6 @@ namespace Ex1_AP2
             RunMissions(missionList, 2);
 
             PrintAvailableFunctions(funcList);
-
-            Console.Read();
         }
     }
 

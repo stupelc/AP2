@@ -1,0 +1,23 @@
+commit c34ccc250f340a32939906a442554c392644c0b2
+Author: chagitstupel <chagitstupel@gmail.com>
+Date:   Tue Mar 19 15:48:19 2019 +0200
+
+    FirstCommit
+
+commit 7ae9ddfd427ae71073cf3e9f69a209642ba1b96d
+Author: chagitstupel <chagitstupel@gmail.com>
+Date:   Tue Mar 19 15:41:29 2019 +0200
+
+    FirstCommit
+
+commit 5df1b079178ab7800ad279a994f65f67367ff3e9
+Author: chagitstupel <chagitstupel@gmail.com>
+Date:   Tue Mar 19 15:28:00 2019 +0200
+
+    Add project files.
+
+commit baa5a7a230d37b3f407596ec72b9dcc19a6e0214
+Author: chagitstupel <chagitstupel@gmail.com>
+Date:   Tue Mar 19 15:27:55 2019 +0200
+
+    Add .gitignore and .gitattributes.
